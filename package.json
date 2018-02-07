@@ -1,0 +1,24 @@
+{
+  "name": "brainacadless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leobaltazor/20180205.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leobaltazor/20180205/issues"
+  },
+  "homepage": "https://github.com/leobaltazor/20180205#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.4.0"
+  }
+}
